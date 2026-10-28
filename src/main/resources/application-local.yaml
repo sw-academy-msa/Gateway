@@ -1,0 +1,4 @@
+# 로컬도 Eureka를 통해 Account를 찾습니다. 외부 AWS 자격증명은 필요하지 않습니다.
+logging:
+  level:
+    com.msa.gateway: INFO
